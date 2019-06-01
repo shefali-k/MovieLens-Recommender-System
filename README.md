@@ -1,1 +1,1 @@
-# Ust-Machine-Learning
+# Machine-Learning
